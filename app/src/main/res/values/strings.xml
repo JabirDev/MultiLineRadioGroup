@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MultiLineRadioGroup</string>
+    <string-array name="radio_buttons">
+        <item>Mantap</item>
+        <item>Jiwa</item>
+        <item>Keren</item>
+        <item>Uy</item>
+        <item>Wow</item>
+        <item>Yuhu</item>
+        <item>Yey</item>
+        <item>Net Not</item>
+        <item>Wkwk</item>
+        <item>Top</item>
+    </string-array>
+</resources>

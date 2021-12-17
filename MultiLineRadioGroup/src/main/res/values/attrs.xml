@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MultiLineRadioGroup">
+        <attr name="spanCount" format="integer"/>
+        <attr name="spacing" format="integer"/>
+        <attr name="includeEdge" format="boolean"/>
+        <attr name="addList" format="reference"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.radiobutton.MaterialRadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/multi_line_radio_group_default_radio_button"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAlignment="center"
+    android:background="@drawable/btn_radio_info_selector"
+    android:button="@drawable/btn_radio_info_selector"
+    android:textColor="@color/color_text_radio_button"
+    android:textSize="16sp" />
