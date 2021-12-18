@@ -1,6 +1,5 @@
-# MultiLineRadioGroup
+# MultiLineRadioGroup [![Release](https://jitpack.io/v/jitpack/maven-simple.svg?style=flat-square)](https://www.jitpack.io/#JabirDev/MultiLineRadioGroup/0.1.0)
 Simple MultiLine Radio Group
-[![Release](https://jitpack.io/v/jitpack/android-example.svg)](https://www.jitpack.io/#JabirDev/MultiLineRadioGroup/0.1.0)
 
 ## Setup
 Add it to your build.gradle with:
